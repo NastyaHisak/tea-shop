@@ -26,7 +26,7 @@ input.ng-invalid.ng-touched{
   border-color: red;
 }
 .invalid-feedback {
-  display: block;
+  display: block !important;
 }
 .success-order{
   display: none;
